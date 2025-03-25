@@ -9,5 +9,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Astro will generate the static site in `docs/`
   },
-  base: '/' 
+  base: '/docs' 
 });
