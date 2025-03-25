@@ -7,7 +7,7 @@ export default defineConfig({
   integrations: [tailwind(), react()],
   output: 'static', // Ensures Astro generates a static site
   build: {
-    outDir: 'dist', // Astro will generate the static site in `dist/`
+    outDir: 'docs', // Astro will generate the static site in `docs/`
   },
   base: '/docs' 
 });
