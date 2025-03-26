@@ -6,9 +6,9 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "./docs/scripts",
-    "rootDir": "./docs/scripts"
+    "outDir": "./scripts",
+    "rootDir": "./scripts"
   },
-  "include": ["docs/scripts/**/*"],
-  "exclude": ["node_modules", ".astro"]
+  "include": ["scripts/**/*"],
+  "exclude": ["node_modules"]
 }
