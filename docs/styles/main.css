@@ -19,26 +19,6 @@ html {
   margin: 0 auto;
 }
 
-.bg-white {
-  background-color: white;
-}
-
-.bg-primary\/10 {
-  background-color: rgba(97, 164, 209, 0.1);
-}
-
-.bg-secondary\/10 {
-  background-color: rgba(240, 91, 91, 0.1);
-}
-
-.text-primary {
-  color: var(--color-primary);
-}
-
-.text-secondary {
-  color: var(--color-secondary);
-}
-
 /* Navigation */
 .nav-link {
   color: #4B5563;
@@ -159,10 +139,6 @@ html {
   body {
     background-color: #111827;
     color: #F3F4F6;
-  }
-
-  .bg-white {
-    background-color: #1F2937;
   }
 
   .nav-link {
